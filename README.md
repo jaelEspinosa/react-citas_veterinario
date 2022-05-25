@@ -1,6 +1,10 @@
 # react-citas_veterinario
-<p>Instalar dependecias de 'Vite'</p>
-<h2>npm install</h2>
+<h2>Instalar dependecias de 'Vite'</h2>
+<h4>npm install</h4>
 
-<p>Arrancar Proyecto</p>
-<h1>npm run dev</h1>
+<h2>Arrancar Proyecto</h2>
+<h4>npm run dev</h4>
+
+<p>App para administrar citas, tipo agenda. Puedes eliminar y editar dichas citas</p>
+
+
